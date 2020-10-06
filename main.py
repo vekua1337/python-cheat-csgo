@@ -3,9 +3,9 @@ import pymem
 import re
 
 
-##########################################
-#WALLHACK CHEAT FOR CS:GO BY DATO VEKUA!
-##########################################
+#########################################
+#WALLHACK CHEAT FOR CS:GO BY DATO VEKUA!#
+#########################################
 
 class Ui_Form(object):
     def setupUi(self, Form):
